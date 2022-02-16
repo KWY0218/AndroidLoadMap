@@ -8,7 +8,7 @@ Activity 시스템은 stack으로 관리된다.
 
 ### Activity Diagram
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2349645c-85cc-4447-94c1-779f11198fb6/Untitled.png)
+![Untitled](https://developer.android.com/guide/components/images/activity_lifecycle.png?hl=ko)
 
 - 처음 앱 시작할 때
 
